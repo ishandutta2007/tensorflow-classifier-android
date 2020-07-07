@@ -1,8 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
+<<<<<<< HEAD
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
+=======
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
+>>>>>>> updated
     defaultConfig {
         applicationId 'org.tensorflow.demo'
         minSdkVersion 21
